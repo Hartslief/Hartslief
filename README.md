@@ -14,7 +14,7 @@ My goals for while I study are as follows:
 - Create a game and sell it on steam
 - Complete an internship
 
-I think my biggest goal overall, and the reason why I got into programming in the first place, is to just learn as much as I can! 
+I think my biggest goal overall, and the reason why I got into programming in the first place, is to solve problems and learn as much as I can!
 
 I am currently learning the basics of coding, but I plan to complete a few bootcamps before I university begins! 
 I will link my blog once I create the website for it!
