@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hartslief" alt="hartslief" /></a> </p>
 
-- 🌱 I’m currently learning **C#, Databases, SQL, MySQL, Cloud Development**
+- 🌱 I’m currently learning **C#, Databases, SQL, MySQL, Cloud Development, React.js, React Native, CSS**
 
-- 💬 Ask me about **python, java and C#**
+- 💬 Ask me about **The wild life I've been blessed to live so far, and the awesome plans I have for the future :)**
 
-- 📫 How to reach me **calebhartslief@gmail.com**
+- 📫 How to reach me **calebhartslief@gmail.com or 0820808485**
 
-- ⚡ Fun fact **I enjoy the outdoors (touch grass)**
+- ⚡ Fun fact **I enjoy the outdoors, video games, fishing, hunting, playing with my dog, and most importantly spending time with my family"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
