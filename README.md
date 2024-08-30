@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hartslief" alt="hartslief" /></a> </p>
 
-- 🌱 I’m currently learning **C#, Databases, SQL, MySQL, Cloud Development, React.js, React Native, CSS**
+- 🌱 I’m currently learning **C#, Databases, SQL, MySQL, Cloud Development, React.js, React Native, CSS, Tailwind.css, Typescript, Javascript**
 
 - 💬 Ask me about **The wild life I've been blessed to live so far, and the awesome plans I have for the future :)**
 
