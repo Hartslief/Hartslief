@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hartslief&label=Profile%20views&color=0e75b6&style=flat" alt="hartslief" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hartslief" alt="hartslief" /></a> </p>
-
 - 🌱 I’m currently learning **C#, Databases, SQL, MySQL, Cloud Development, React.js, React Native, CSS, Tailwind.css, Typescript, Javascript**
 
 - 💬 Ask me about **The wild life I've been blessed to live so far, and the awesome plans I have for the future :)**
@@ -71,8 +69,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hartslief&show_icons=true&locale=en&layout=compact" alt="hartslief" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hartslief&show_icons=true&locale=en" alt="hartslief" /></p>
 
