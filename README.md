@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hartslief&label=Profile%20views&color=0e75b6&style=flat" alt="hartslief" /> </p>
 
-- 🌱 I’m currently learning **C#, Databases, SQL, MySQL, Cloud Development, React.js, React Native, CSS, Tailwind.css, Typescript, Javascript**
+- 🌱 I’m currently learning **C#, Databases, SQL, MySQL, Cloud Development, React.js, React Native, CSS, Tailwind.css, Typescript, Javascript, Next.js, Expo, Android Studio, Kotlin, Git**
 
-- 💬 Ask me about **The wild life I've been blessed to live so far, and the awesome plans I have for the future :)**
+- 💬 Ask me about **the wild life I've been blessed to live so far, and the awesome plans I have for the future :)**
 
 - 📫 How to reach me **calebhartslief@gmail.com or 0820808485**
 
