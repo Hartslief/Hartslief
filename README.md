@@ -16,6 +16,8 @@ I'm Caleb Hartslief, a graduate software developer who's keen to always learn mo
 
 ![Frog Toad Sticker](https://github.com/user-attachments/assets/774b9ed4-e767-49d1-acba-54a57624b472)
 
+-# Artist: @abitoads
+
 
 <!--
      This is where you can reach me anytime!
