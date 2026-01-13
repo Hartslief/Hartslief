@@ -10,10 +10,11 @@ Hey there!
 I'm Caleb Hartslief, a graduate software developer who's keen to always learn more.
 
 <!--
-  Credit to the amazing artist @Nanawiko.
+  Credit to the amazing artist @abitoads.
   Find their other work here: https://giphy.com/Nanawiko
 -->
-![Fox Snow Sticker](https://github.com/user-attachments/assets/98f5448e-9aae-43dc-8008-c2584203c1ec)
+
+![Frog Toad Sticker](https://github.com/user-attachments/assets/774b9ed4-e767-49d1-acba-54a57624b472)
 
 
 <!--
