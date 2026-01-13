@@ -6,6 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&duration=3000&pause=2000&color=FF9B45&width=435&lines=Caleb+Hartslief;Software+Developer)](https://git.io/typing-svg)
 
+Hey there! 
+I'm Caleb Hartslief, a graduate software developer who's keen to always learn more.
+
 <!--
      This is where you can reach me anytime!
 -->
@@ -26,3 +29,12 @@
 ### Main Skills
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,aws,azure,bootstrap,cs,css,docker,dotnet,firebase,git,github,gradle,html,java,js,kotlin,mongodb,mysql,nextjs,nodejs,react,sqlite,tailwind,ts,vercel,vite,wordpress)](https://skillicons.dev)
 
+### Employer?
+> [!IMPORTANT]  
+> <a href="[https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing](https://drive.google.com/file/d/19-aI1UUWZCNmPGxtQFlrA5Lt--zTqZyA/view?usp=sharing)" download>Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+
+<!--
+     Thanks for being my guest!
+-->
