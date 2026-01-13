@@ -10,6 +10,13 @@ Hey there!
 I'm Caleb Hartslief, a graduate software developer who's keen to always learn more.
 
 <!--
+  Credit to the amazing artist @Nanawiko.
+  Find their other work here: https://giphy.com/Nanawiko
+-->
+![Fox Snow Sticker](https://github.com/user-attachments/assets/98f5448e-9aae-43dc-8008-c2584203c1ec)
+
+
+<!--
      This is where you can reach me anytime!
 -->
 <div>
@@ -32,8 +39,6 @@ I'm Caleb Hartslief, a graduate software developer who's keen to always learn mo
 ### Employer?
 > [!IMPORTANT]  
 > <a href="[https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing](https://drive.google.com/file/d/19-aI1UUWZCNmPGxtQFlrA5Lt--zTqZyA/view?usp=sharing)" download>Download my resume</a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
 <!--
      Thanks for being my guest!
