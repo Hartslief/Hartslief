@@ -23,6 +23,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  
+  ### Main Skills
   [![My Skills](https://skillicons.dev/icons?i=androidstudio,aws,azure,bootstrap,cs,css,docker,dotnet,firebase,git,github,gradle,html,java,js,kotlin,mongodb,mysql,nextjs,nodejs,react,sqlite,tailwind,ts,vercel,vite,wordpress)](https://skillicons.dev)
 </p>
 
