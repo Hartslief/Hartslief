@@ -33,10 +33,18 @@ I'm Caleb Hartslief, a graduate software developer who's keen to always learn mo
 </div>
 
 <!--
-     This is the list of my skills and tools I am studying!
+     This is the list of my skills that I've gained from University as well as real work experience!
 -->
 ### Main Skills
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,aws,azure,bootstrap,cs,css,docker,dotnet,firebase,git,github,gradle,html,java,js,kotlin,mongodb,mysql,nextjs,nodejs,react,sqlite,tailwind,ts,vercel,vite,wordpress)](https://skillicons.dev)
+
+<!--
+     This is the list of some skills and tools I am studying!
+     I'm interested in AI development, as in, developing custom neural networks for smaller tasks like file management
+     while minimizing intrusivness to the user.
+-->
+### Learning
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,tensorflow)](https://skillicons.dev)
 
 ### Employer?
 > [!IMPORTANT]  
