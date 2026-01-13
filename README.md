@@ -15,8 +15,9 @@ I'm Caleb Hartslief, a graduate software developer who's keen to always learn mo
 -->
 
 ![Frog Toad Sticker](https://github.com/user-attachments/assets/774b9ed4-e767-49d1-acba-54a57624b472)
-<sub> Artist: @abitoads </sub>
-
+<div align="left"> 
+  <sub> Artist: @abitoads </sub>
+</div>
 <!--
      This is where you can reach me anytime!
 -->
@@ -39,7 +40,7 @@ I'm Caleb Hartslief, a graduate software developer who's keen to always learn mo
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="[https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing](https://drive.google.com/file/d/19-aI1UUWZCNmPGxtQFlrA5Lt--zTqZyA/view?usp=sharing)" download>Download my resume</a>
+> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a> 
 
 <!--
      Thanks for being my guest!
