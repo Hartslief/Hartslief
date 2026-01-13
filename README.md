@@ -40,7 +40,7 @@ I'm Caleb Hartslief, a graduate software developer who's keen to always learn mo
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a> 
+> <a href="[https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing](https://drive.google.com/file/d/19-aI1UUWZCNmPGxtQFlrA5Lt--zTqZyA/view?usp=sharing)" download>Download my resume</a> 
 
 <!--
      Thanks for being my guest!
