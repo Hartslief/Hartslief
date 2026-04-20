@@ -15,30 +15,33 @@ I'm Caleb Hartslief, a graduate software developer who's keen to always learn mo
 -->
 
 ![Frog Toad Sticker](https://github.com/user-attachments/assets/774b9ed4-e767-49d1-acba-54a57624b472)
-<div align="left"> 
-  <sub> Artist: @abitoads </sub>
-</div>
+###### Artist: @abitoads
+
 <!--
      This is where you can reach me anytime!
 -->
-<div>
-  <h3>Connect with me:</h3>
-  <table>
-    <tr>
-      <td><a href="https://twitter.com/calebhartslief" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="calebhartslief" height="40" width="50"/></a></td>
-      <td><a href="www.linkedin.com/in/caleb-hartslief-889b2720a" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caleb hartslief" height="40" width="50" /></a></td>
-      <td><a href="https://stackoverflow.com/users/19152735" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19152735" height="40" width="50" /></a></td>
-      <td><a href="https://instagram.com/caleb_hartslief" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caleb_hartslief" height="40" width="50" /></a></td>
-      <td><a href="https://www.leetcode.com/hartslief" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hartslief" height="40" width="50" /></a></td>
-    </tr>
-  </table>
-</div>
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-45B6F2?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/caleb-hartslief-889b2720a)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caleb_hartslief)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/calebhartslief)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19152735)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/hartslief)
+
+Or contact me in a more tradional way:
+> calebhartslief@gmail.com
 
 <!--
      This is the list of my skills that I've gained from University as well as real work experience!
 -->
 ### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,aws,azure,bootstrap,cs,css,docker,dotnet,firebase,git,github,gradle,html,java,js,kotlin,mongodb,mysql,nextjs,nodejs,react,sqlite,tailwind,ts,vercel,vite,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,firebase,git,github,js,nextjs,nodejs,react,tailwind,ts)](https://skillicons.dev)
+
+<!--
+    These are languages/frameworks/etc that I have used to complete projects with but that I no longer regularly use
+-->
+### Familiar With
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,aws,azure,bootstrap,cs,css,dotnet,gradle,html,java,kotlin,mongodb,mysql,sqlite,vercel,vite,wordpress)](https://skillicons.dev)
 
 <!--
      This is the list of some skills and tools I am studying!
@@ -46,11 +49,11 @@ I'm Caleb Hartslief, a graduate software developer who's keen to always learn mo
      while minimizing intrusivness to the user.
 -->
 ### Learning
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/19-aI1UUWZCNmPGxtQFlrA5Lt--zTqZyA/view?usp=sharing" download>Download my resume</a> 
+> [Download my resume](https://drive.google.com/file/d/19-aI1UUWZCNmPGxtQFlrA5Lt--zTqZyA/view?usp=sharing)
 
 <!--
      Thanks for being my guest!
