@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&duration=3000&pause=2000&color=FF9B45&width=435&lines=Caleb+Hartslief;Software+Developer)](https://git.io/typing-svg)
 
 Hey there! 
-I'm Caleb Hartslief, a graduate software developer who's keen to always learn more.
+I'm Caleb Hartslief, a junior Software Engineer who's keen to always learn more.
 
 <!--
   Credit to the amazing artist @abitoads.
@@ -51,9 +51,12 @@ Or contact me in a more tradional way:
 ### Learning
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
+<!--
+Currently employed!
 ### Employer?
 > [!IMPORTANT]  
 > [Download my resume](https://drive.google.com/file/d/19-aI1UUWZCNmPGxtQFlrA5Lt--zTqZyA/view?usp=sharing)
+-->
 
 <!--
      Thanks for being my guest!
